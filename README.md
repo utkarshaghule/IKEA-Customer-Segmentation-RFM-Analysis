@@ -1,4 +1,4 @@
-# IKEA Customer Segmentation & RFM Analysis
+## Retail Customer Segmentation & RFM Analysis
 
 ## Project Overview
 This project focuses on analyzing retail customer purchasing behavior and segmenting customers using the RFM (Recency, Frequency, Monetary) approach. It combines Python, SQL Server, and Power BI to transform raw transaction data into meaningful customer insights.
